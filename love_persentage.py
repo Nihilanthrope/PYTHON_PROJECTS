@@ -27,7 +27,7 @@ else:
     
     
 print("<<<=============================================================================================>>>")
-print("|||	           I LOVE ANKITA YALLL  			                	                            |||")
+print("|||	           I LOVE SAORI YALLL  			                	                            |||")
 print("|||	 BROO SHESS SOO CUTEEWW🥹	                                                                |||")
 print("|||	IMAA MARRY HER YALLL🥹 SHES DAAA BESESTTTT				    	                            |||")
 print("|||			😭THIS IS MY FAVVV PROJECT FOR SUREEE				                                |||")
