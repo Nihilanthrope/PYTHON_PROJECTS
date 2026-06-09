@@ -40,6 +40,7 @@
 ## 🐍 The Origin Story
 
 > *Every great engineer has a repo they look back at and laugh. This is mine.*
+> *Tbh i used Ai to make this sh!t Up nvm*
 
 This is where it started. **First year. No idea what I was doing. Python installed, tutorials half-watched, and way too much confidence.**
 
