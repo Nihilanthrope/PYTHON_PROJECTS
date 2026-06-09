@@ -342,21 +342,7 @@ python even_odd_mini_3.py  # ➗ Even/odd checker
 
 ```
 PYTHON_PROJECTS (you are here in the timeline)
-        │
-        ▼
-    Classical ML ── NumPy, Pandas, scikit-learn, Kaggle
-        │
-        ▼
-    Deep Learning ── PyTorch, CNNs, RNNs, Transformers
-        │
-        ▼
-    LLMs & GenAI ── HuggingFace, LangChain, RAG systems
-        │
-        ▼
-    MLOps ── Docker, FastAPI, model serving, CI/CD
-        │
-        ▼
-    Project Nexus, DocuMind, AgentOS ...
+
 ```
 
 Every expert was once a beginner who refused to quit. The dice roller became the RAG pipeline. The menu dict became PostgreSQL schemas. The text game's branching logic became agent decision trees.
