@@ -48,12 +48,11 @@ These aren't polished projects. They're **honest ones** — the kind where the e
 Looking back at this repo is like finding your first sketch pad. Rough, unfiltered, and 100% real.
 
 ```
-2023 → Installed Python for the first time
-2023 → Wrote first "Hello World"
-2023 → Thought I was a programmer after writing a while loop
-2023 → This repo happened
-2024 → Started actually learning the math behind AI/ML
-2025 → Building LLM pipelines and RAG systems
+1/5/2026 → Installed Python for the first time
+1/5/2026→ Wrote first "Hello World" Jk i Wrote "N" word
+3/5/2026 → Thought I was a programmer after writing a while loop (epic shit)
+(i forgot)2026→ This repo happened
+(idk)2026 → Started actually learning the math behind AI/ML (I believe i can be a good politician or lawyer)
        ↑ That journey started here.
 ```
 
